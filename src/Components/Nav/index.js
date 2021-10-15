@@ -51,6 +51,4 @@ function Nav(props) {
 }
 
 export default Nav;
-© 2021 GitHub, Inc.
-Terms
-Privacy
+
