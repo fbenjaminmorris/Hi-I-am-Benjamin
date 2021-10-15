@@ -51,6 +51,10 @@ function Resume() {
 					<li>MongoDB</li>
 					<li>Mongoose</li>
 				</ol>
+				<h5>Projects</h5>
+				<ol>
+					<li>https://floating-depths-28820.herokuapp.com/#/</li>
+				</ol>	
 			</div>
 		</section>
 	);
