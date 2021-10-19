@@ -1,5 +1,5 @@
 {
-  "homepage": "https://github.com/fbenjaminmorris/Hi-I-am-Benjamin",
+  "homepage": "https://fbenjaminmorris.github.io/Hi-I-am-Benjamin/",
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
@@ -34,6 +34,9 @@
   "Dependencies": {
     "@testing-library/jest-dom": "^5.8.0",
     "@testing-library/react": "^9.5.0",
+    "gh-pages": "^3.2.3"
+  },
+  "devDependencies": {
     "gh-pages": "^3.2.3"
   }
 }
